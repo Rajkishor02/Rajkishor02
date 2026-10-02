@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, I'm Rajkishor! 👋
+**Data Analyst | Turning Data into Actionable Insights**
 
-<!--
-**Rajkishor02/Rajkishor02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Analyst passionate about cleaning, analyzing, and visualizing data to solve business problems. 
 
-Here are some ideas to get you started:
+🛠 **My Tech Stack & Tools:**
+* **Languages:** SQL, Python
+* **Data Visualization:** Power BI, Tableau, Excel (Pivot Tables, Dashboards)
+* **Python Libraries:** Pandas, NumPy, Matplotlib
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **What I'm currently working on:** 
+* Building my data analytics portfolio.
+* Analyzing [sales data, sports stats, etc.].
+
+📫 **How to reach me:** 
+* LinkedIn: [https://www.linkedin.com/in/rajkishor-jha/]
